@@ -1,2 +1,2 @@
 # static_web_page_maven
-# static_web_page_maven
+this is a sample java application 
